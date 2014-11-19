@@ -1,0 +1,53 @@
+[0m[[0minfo[0m] [0m[32mCountChangeSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: example given in instructions *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$1.apply$mcV$sp(CountChangeSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$1.apply(CountChangeSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$1.apply(CountChangeSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite.withFixture(CountChangeSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: sorted CHF *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$2.apply$mcV$sp(CountChangeSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$2.apply(CountChangeSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$2.apply(CountChangeSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite.withFixture(CountChangeSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: no pennies *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$3.apply$mcV$sp(CountChangeSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$3.apply(CountChangeSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$3.apply(CountChangeSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite.withFixture(CountChangeSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: unsorted CHF *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.countChange(Main.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$4.apply$mcV$sp(CountChangeSuite.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$4.apply(CountChangeSuite.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite$$anonfun$4.apply(CountChangeSuite.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.CountChangeSuite.withFixture(CountChangeSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

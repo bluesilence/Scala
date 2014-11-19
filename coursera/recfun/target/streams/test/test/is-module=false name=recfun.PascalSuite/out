@@ -1,0 +1,40 @@
+[0m[[0minfo[0m] [0m[32mPascalSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- pascal: col=0,row=2 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply$mcV$sp(PascalSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply(PascalSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$1.apply(PascalSuite.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite.withFixture(PascalSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- pascal: col=1,row=2 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$2.apply$mcV$sp(PascalSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$2.apply(PascalSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$2.apply(PascalSuite.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite.withFixture(PascalSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- pascal: col=1,row=3 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:252)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.Main$.pascal(Main.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$3.apply$mcV$sp(PascalSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$3.apply(PascalSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite$$anonfun$3.apply(PascalSuite.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at recfun.PascalSuite.withFixture(PascalSuite.scala:9)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$class.invokeWithFixture$1(FunSuite.scala:1262)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anonfun$runTest$1.apply(FunSuite.scala:1271)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
